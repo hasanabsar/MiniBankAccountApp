@@ -1,0 +1,10 @@
+C:\Users\Student\Desktop\MiniBankAccount\MiniBankAccount\bin\Debug\MiniBankAccount.exe.config
+C:\Users\Student\Desktop\MiniBankAccount\MiniBankAccount\bin\Debug\MiniBankAccount.exe
+C:\Users\Student\Desktop\MiniBankAccount\MiniBankAccount\bin\Debug\MiniBankAccount.pdb
+C:\Users\Student\Desktop\MiniBankAccount\MiniBankAccount\obj\Debug\MiniBankAccount.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\MiniBankAccount\MiniBankAccount\obj\Debug\MiniBankAccount.Form1.resources
+C:\Users\Student\Desktop\MiniBankAccount\MiniBankAccount\obj\Debug\MiniBankAccount.Properties.Resources.resources
+C:\Users\Student\Desktop\MiniBankAccount\MiniBankAccount\obj\Debug\MiniBankAccount.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\MiniBankAccount\MiniBankAccount\obj\Debug\MiniBankAccount.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\MiniBankAccount\MiniBankAccount\obj\Debug\MiniBankAccount.exe
+C:\Users\Student\Desktop\MiniBankAccount\MiniBankAccount\obj\Debug\MiniBankAccount.pdb
